@@ -1,0 +1,17 @@
+{
+  "name": "invo-thiera",
+  "version": "1.0.0",
+  "description": "This is an app build with MERN stack powered by docker and NGNX",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mongodb",
+    "Express",
+    "React",
+    "Node.js"
+  ],
+  "author": "Thierry Ntirandekura",
+  "license": "MIT"
+}
