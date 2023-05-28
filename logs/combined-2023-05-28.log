@@ -1,0 +1,35 @@
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-28 09:59:15.375 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/test',
+  status: 200,
+  content_length: '39',
+  response_time: 5.696,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-28 10:00:12.177 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/tes',
+  status: 404,
+  content_length: 149,
+  response_time: 1.653,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-28 10:00:30.175 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/test',
+  status: 200,
+  content_length: '39',
+  response_time: 0.564,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-28 10:00:57.220 PM'
+}
