@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "This is an app build with MERN stack powered by docker and NGNX",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
   },
   "keywords": [
     "Mongodb",
@@ -13,5 +15,23 @@
     "Node.js"
   ],
   "author": "Thierry Ntirandekura",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chalk": "^5.2.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-rate-limit": "^6.7.0",
+    "handlebars": "^4.7.7",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.1",
+    "morgan": "^1.10.0",
+    "winston": "^3.9.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
