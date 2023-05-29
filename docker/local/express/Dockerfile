@@ -26,4 +26,4 @@ RUN chown invoice:invoice ${APP_HOME}
 
 USER invoice
 
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "start"]
