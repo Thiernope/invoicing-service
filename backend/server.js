@@ -4,6 +4,9 @@ import dotenv from "dotenv";
 import morgan from "morgan";
 import connectionToDB from "./config/connectDB.js";
 import { morganMiddleware, systemLogs } from "./utils/Logger.js";
+import cookieParser from "cookie-parser";
+import mongoSanize from "express-mongo-sanitize";
+
 const config = dotenv.config();
 
 await connectionToDB();
@@ -11,7 +14,8 @@ const App = express();
 
 App.use(express.json());
 App.use(express.urlencoded({extended: false}));
-
+App.use(cookieParser());
+App.use(mongoSanize());
 
 if(process.env.NODE_ENV === "development") {
     App.use(morgan("dev"));
