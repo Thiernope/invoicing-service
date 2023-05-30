@@ -2,9 +2,11 @@ import express from "express";
 import chalk from "chalk";
 import dotenv from "dotenv";
 import morgan from "morgan";
+import connectionToDB from "./config/connectDB.js";
 import { morganMiddleware, systemLogs } from "./utils/Logger.js";
 const config = dotenv.config();
 
+await connectionToDB();
 const App = express();
 
 App.use(express.json());

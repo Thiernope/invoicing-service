@@ -1,0 +1,20 @@
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-05-30 09:22:18.524 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-30 09:22:18.551 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-05-30 09:35:33.679 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-30 09:35:33.742 AM'
+}
