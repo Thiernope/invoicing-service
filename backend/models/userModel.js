@@ -107,7 +107,7 @@ const userSchema = new Schema(
 
 //the following functions are for mongoose to pre-save the default rows for a user
 
-//Prefile userRole
+//Pre-fill userRole
 userSchema.pre("save", async function (next) {
 	if (this.roles.length === 0) {
 		this.roles.push(USER);
@@ -115,7 +115,7 @@ userSchema.pre("save", async function (next) {
 	}
 });
 
-
+//This is for incrypting the password whenever the password field changed
 userSchema.pre("save", async function (next) {
 	if (!this.isModified("password")) {
 		return next();
@@ -128,6 +128,7 @@ userSchema.pre("save", async function (next) {
 	next();
 });
 
+//This is for pref-fill the field passwordChangedAt in the db (userSchema)
 userSchema.pre("save", async function (next) {
 	if (!this.isModified("password") || this.isNew) {
 		return next();
@@ -137,6 +138,8 @@ userSchema.pre("save", async function (next) {
 	next();
 });
 
+
+//This is for comparing entered password with the already stored and bycrypted password
 userSchema.methods.comparePassword = async function (givenPassword) {
 	return await bcrypt.compare(givenPassword, this.password);
 };

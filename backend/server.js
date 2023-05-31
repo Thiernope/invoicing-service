@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 import morgan from "morgan";
 import connectionToDB from "./config/connectDB.js";
 import { morganMiddleware, systemLogs } from "./utils/Logger.js";
+import { errorHandler, notFound } from "./middleware/errorMiddleware.js";
 import cookieParser from "cookie-parser";
 import mongoSanize from "express-mongo-sanitize";
 
@@ -26,6 +27,9 @@ App.use(morganMiddleware);
 App.get("/api/v1/test", (req, res)=> {
     res.json({message: "Welcome to my invoice app"});
 })
+
+App.use(notFound);
+App.use(errorHandler);
 
 const PORT = process.env.PORT || 4000;
 
