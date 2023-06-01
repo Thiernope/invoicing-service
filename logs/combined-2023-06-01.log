@@ -83,3 +83,93 @@
   message: 'incoming-request',
   timestamp: '2023-06-01 07:18:33.226 AM'
 }
+{
+  method: 'GET',
+  url: '/api/v1/new_access_token',
+  status: 404,
+  content_length: '914',
+  response_time: 43.451,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:58:45.527 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/new_access_token',
+  status: 404,
+  content_length: '914',
+  response_time: 0.567,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:59:42.540 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 08:01:08.094 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 08:01:08.174 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/new_access_token',
+  status: 404,
+  content_length: '914',
+  response_time: 9.326,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:01:10.889 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/new_access_token',
+  status: 200,
+  content_length: '314',
+  response_time: 111.424,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:01:22.442 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/new_access_token',
+  status: 200,
+  content_length: '314',
+  response_time: 23.053,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:01:50.630 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/new_access_token',
+  status: 200,
+  content_length: '314',
+  response_time: 13.261,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:02:18.052 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/new_access_token',
+  status: 200,
+  content_length: '314',
+  response_time: 10.945,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:02:22.908 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/new_access_token',
+  status: 200,
+  content_length: '314',
+  response_time: 9.484,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:02:25.248 AM'
+}
