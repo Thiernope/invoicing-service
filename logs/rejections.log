@@ -1,0 +1,1951 @@
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 14:55:12 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 9755,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 67321856,
+      heapTotal: 36450304,
+      heapUsed: 25773368,
+      external: 24089182,
+      arrayBuffers: 19270956
+    }
+  },
+  os: {
+    loadavg: [ 3.15478515625, 4.0751953125, 4.2119140625 ],
+    uptime: 92338
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 02:55:12.220 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 14:56:12 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 9796,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 70402048,
+      heapTotal: 37498880,
+      heapUsed: 22117392,
+      external: 24287618,
+      arrayBuffers: 18321474
+    }
+  },
+  os: { loadavg: [ 3.2119140625, 3.8984375, 4.1337890625 ], uptime: 92398 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 02:56:12.770 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 14:56:19 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 9809,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 67674112,
+      heapTotal: 36188160,
+      heapUsed: 26163744,
+      external: 24089182,
+      arrayBuffers: 19367137
+    }
+  },
+  os: {
+    loadavg: [ 3.3935546875, 3.9169921875, 4.1376953125 ],
+    uptime: 92405
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 02:56:19.715 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:00:11 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 9993,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 67923968,
+      heapTotal: 36188160,
+      heapUsed: 25841480,
+      external: 24168024,
+      arrayBuffers: 19285861
+    }
+  },
+  os: {
+    loadavg: [ 3.22509765625, 3.52490234375, 3.92333984375 ],
+    uptime: 92637
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:00:11.481 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:00:23 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 10019,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 68526080,
+      heapTotal: 36188160,
+      heapUsed: 26037856,
+      external: 24295810,
+      arrayBuffers: 19320114
+    }
+  },
+  os: { loadavg: [ 2.8828125, 3.44140625, 3.888671875 ], uptime: 92649 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:00:23.971 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:01:22 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 10045,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 68804608,
+      heapTotal: 35926016,
+      heapUsed: 26559928,
+      external: 24287618,
+      arrayBuffers: 19342370
+    }
+  },
+  os: {
+    loadavg: [ 3.64013671875, 3.52099609375, 3.8837890625 ],
+    uptime: 92708
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:01:22.237 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:02:53 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 10095,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 68595712,
+      heapTotal: 36188160,
+      heapUsed: 26295816,
+      external: 24295810,
+      arrayBuffers: 19363522
+    }
+  },
+  os: {
+    loadavg: [ 4.7236328125, 3.85400390625, 3.96826171875 ],
+    uptime: 92799
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:02:53.418 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:03:50 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 10119,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 69165056,
+      heapTotal: 36188160,
+      heapUsed: 26297112,
+      external: 23436064,
+      arrayBuffers: 19348949
+    }
+  },
+  os: { loadavg: [ 4.951171875, 4.0576171875, 4.03515625 ], uptime: 92856 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:03:50.343 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:15:18 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 1619,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 68218880,
+      heapTotal: 35926016,
+      heapUsed: 26120600,
+      external: 24295924,
+      arrayBuffers: 19356778
+    }
+  },
+  os: {
+    loadavg: [ 636.2919921875, 223.6220703125, 87.47705078125 ],
+    uptime: 235
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:15:18.439 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:26:12 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70123520,
+      heapTotal: 36843520,
+      heapUsed: 26163632,
+      external: 24147155,
+      arrayBuffers: 19747508
+    }
+  },
+  os: { loadavg: [ 9.18, 4.06, 1.66 ], uptime: 342.37 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:26:12.686 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:26:21 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70713344,
+      heapTotal: 36581376,
+      heapUsed: 26215592,
+      external: 24138963,
+      arrayBuffers: 19769578
+    }
+  },
+  os: { loadavg: [ 8.37, 4.06, 1.68 ], uptime: 351.6 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:26:21.925 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:26:35 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70762496,
+      heapTotal: 36843520,
+      heapUsed: 26007904,
+      external: 23278640,
+      arrayBuffers: 19742302
+    }
+  },
+  os: { loadavg: [ 7.7, 4.06, 1.71 ], uptime: 364.99 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:26:35.308 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:27:10 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 19,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 69910528,
+      heapTotal: 36843520,
+      heapUsed: 26167840,
+      external: 24147155,
+      arrayBuffers: 19750494
+    }
+  },
+  os: { loadavg: [ 6.73, 4.28, 1.89 ], uptime: 400.61 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:27:10.927 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:27:16 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70934528,
+      heapTotal: 36843520,
+      heapUsed: 26449312,
+      external: 24147155,
+      arrayBuffers: 19770197
+    }
+  },
+  os: { loadavg: [ 6.67, 4.31, 1.91 ], uptime: 406.25 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:27:16.543 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:27:22 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 17,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70602752,
+      heapTotal: 36843520,
+      heapUsed: 26466344,
+      external: 20932821,
+      arrayBuffers: 19762005
+    }
+  },
+  os: { loadavg: [ 6.62, 4.34, 1.93 ], uptime: 412.27 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:27:22.581 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:27:41 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70369280,
+      heapTotal: 36581376,
+      heapUsed: 26001344,
+      external: 24147155,
+      arrayBuffers: 19742302
+    }
+  },
+  os: { loadavg: [ 6.72, 4.5, 2.03 ], uptime: 431.66 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:27:41.981 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:27:49 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 70356992,
+      heapTotal: 36843520,
+      heapUsed: 26497088,
+      external: 24147155,
+      arrayBuffers: 19770197
+    }
+  },
+  os: { loadavg: [ 6.5, 4.49, 2.04 ], uptime: 438.79 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:27:49.111 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:27:57 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 69943296,
+      heapTotal: 36843520,
+      heapUsed: 26128640,
+      external: 24138963,
+      arrayBuffers: 19742302
+    }
+  },
+  os: { loadavg: [ 6.05, 4.46, 2.06 ], uptime: 446.74 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:27:57.062 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///app/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+      at async loadESM (node:internal/process/esm_loader:88:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///app/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:88:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 13:28:22 GMT+0000 (Coordinated Universal Time)',
+  process: {
+    pid: 18,
+    uid: 100,
+    gid: 101,
+    cwd: '/app',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.13.1',
+    argv: [ '/usr/local/bin/node', '/app/backend/server.js' ],
+    memoryUsage: {
+      rss: 71925760,
+      heapTotal: 36843520,
+      heapUsed: 26425288,
+      external: 24147155,
+      arrayBuffers: 19770197
+    }
+  },
+  os: { loadavg: [ 4.67, 4.27, 2.06 ], uptime: 471.91 },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///app/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 185,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 281,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 01:28:22.221 PM'
+}
+{
+  error: ReferenceError: Schama is not defined
+      at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27
+      at ModuleJob.run (node:internal/modules/esm/module_job:193:25)
+      at async Promise.all (index 0)
+      at async ESMLoader.import (node:internal/modules/esm/loader:533:24)
+      at async loadESM (node:internal/process/esm_loader:91:5)
+      at async handleMainPromise (node:internal/modules/run_main:65:12),
+  level: 'error',
+  message: 'uncaughtException: Schama is not defined\n' +
+    'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  stack: 'ReferenceError: Schama is not defined\n' +
+    '    at file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js:5:27\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)\n' +
+    '    at async Promise.all (index 0)\n' +
+    '    at async ESMLoader.import (node:internal/modules/esm/loader:533:24)\n' +
+    '    at async loadESM (node:internal/process/esm_loader:91:5)\n' +
+    '    at async handleMainPromise (node:internal/modules/run_main:65:12)',
+  exception: true,
+  date: 'Wed May 31 2023 15:29:12 GMT+0200 (Central Africa Time)',
+  process: {
+    pid: 2633,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/octan-6/Documents/Invo-Thiera',
+    execPath: '/usr/local/bin/node',
+    version: 'v16.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/octan-6/Documents/Invo-Thiera/backend/server.js'
+    ],
+    memoryUsage: {
+      rss: 68640768,
+      heapTotal: 36188160,
+      heapUsed: 26337216,
+      external: 24291755,
+      arrayBuffers: 19375064
+    }
+  },
+  os: {
+    loadavg: [ 4.68408203125, 21.837890625, 40.12939453125 ],
+    uptime: 1069
+  },
+  trace: [
+    {
+      column: 27,
+      file: 'file:///Users/octan-6/Documents/Invo-Thiera/backend/models/verifyResetTokenModel.js',
+      function: null,
+      line: 5,
+      method: null,
+      native: false
+    },
+    {
+      column: 25,
+      file: 'node:internal/modules/esm/module_job',
+      function: 'ModuleJob.run',
+      line: 193,
+      method: 'run',
+      native: false
+    },
+    {
+      column: null,
+      file: null,
+      function: 'async Promise.all',
+      line: null,
+      method: 'all',
+      native: false
+    },
+    {
+      column: 24,
+      file: 'node:internal/modules/esm/loader',
+      function: 'async ESMLoader.import',
+      line: 533,
+      method: 'import',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/esm_loader',
+      function: 'async loadESM',
+      line: 91,
+      method: null,
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'async handleMainPromise',
+      line: 65,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2023-05-31 03:29:12.485 PM'
+}

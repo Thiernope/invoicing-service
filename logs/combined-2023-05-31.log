@@ -1,0 +1,334 @@
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-05-31 01:36:12.456 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-31 01:36:12.478 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/test',
+  status: 200,
+  content_length: '39',
+  response_time: 10.112,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:36:39.317 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/register',
+  status: 404,
+  content_length: '898',
+  response_time: 1.126,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:39:08.018 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '898',
+  response_time: 5.034,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:39:43.069 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '910',
+  response_time: 0.882,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:40:54.789 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '910',
+  response_time: 1.228,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:41:10.767 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '653',
+  response_time: 54.516,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:41:43.635 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '483',
+  response_time: 16.511,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:42:26.333 PM'
+}
+{
+  message: "email not sent: TypeError: Cannot read properties of undefined (reading 'sendMail')",
+  level: 'error',
+  timestamp: '2023-05-31 01:43:10.414 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 228.687,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:43:10.421 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '362',
+  response_time: 25.73,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:48:16.818 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '601',
+  response_time: 12.401,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:51:33.322 PM'
+}
+{
+  message: "email not sent: TypeError: Cannot read properties of undefined (reading 'sendMail')",
+  level: 'error',
+  timestamp: '2023-05-31 01:52:08.453 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 212.481,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:52:08.458 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/regist',
+  status: 404,
+  content_length: '894',
+  response_time: 0.879,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:55:43.249 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '362',
+  response_time: 6.433,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 01:56:04.920 PM'
+}
+{
+  message: "email not sent: TypeError: Cannot read properties of undefined (reading 'sendMail')",
+  level: 'error',
+  timestamp: '2023-05-31 02:10:49.629 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 169.236,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:10:49.637 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-05-31 02:13:52.665 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-31 02:13:52.698 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '362',
+  response_time: 49.509,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:14:12.932 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 380.822,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:15:13.506 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/874c1ed4959ed9e2601208cd4b007601e0217d3795b36250727f0607b59290da/6477567172bd757d0eb2ca5a',
+  status: 404,
+  content_length: '1074',
+  response_time: 5.709,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:15:45.063 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/874c1ed4959ed9e2601208cd4b007601e0217d3795b36250727f0607b59290da/6477567172bd757d0eb2ca5a',
+  status: 404,
+  content_length: '1074',
+  response_time: 0.68,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:18:41.235 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-05-31 02:19:52.184 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-31 02:19:52.235 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/874c1ed4959ed9e2601208cd4b007601e0217d3795b36250727f0607b59290da/6477567172bd757d0eb2ca5a',
+  status: 404,
+  content_length: '1074',
+  response_time: 8.572,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:20:01.102 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/874c1ed4959ed9e2601208cd4b007601e0217d3795b36250727f0607b59290da/6477567172bd757d0eb2ca5a',
+  status: 404,
+  content_length: '1074',
+  response_time: 5.822,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:21:38.727 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-05-31 02:22:34.047 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-05-31 02:22:34.078 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/874c1ed4959ed9e2601208cd4b007601e0217d3795b36250727f0607b59290da/6477567172bd757d0eb2ca5a',
+  status: 302,
+  content_length: '68',
+  response_time: 254.559,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 02:22:36.014 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/874c1ed4959ed9e2601208cd4b007601e0217d3795b36250727f0607b59290da/6477567172bd757d0eb2ca5a',
+  status: 400,
+  content_length: '49',
+  response_time: 146.451,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:38:52.349 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '475',
+  response_time: 59.439,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:39:49.361 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '1036',
+  response_time: 309.811,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:39:58.591 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 347.289,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:41:03.463 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/14b188e4065bf533e6f138b41c0948079f9a53e5f663779c61e9843682df4e1c/64776a8fd0d3e4ab7dee281f',
+  status: 302,
+  content_length: '68',
+  response_time: 166.672,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:41:33.555 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/test',
+  status: 304,
+  response_time: 4.614,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:43:59.426 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/register',
+  status: 404,
+  content_length: '898',
+  response_time: 0.692,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-05-31 03:44:46.077 PM'
+}

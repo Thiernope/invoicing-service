@@ -1,0 +1,85 @@
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 07:03:15.007 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 07:03:15.043 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 473.387,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:09:52.325 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/30b797bbd3a341185e0e9b8c139a504aef667cb86cdd1f68728d1d7c6da0cfe6/6478443f3729eef4f331624d',
+  status: 302,
+  content_length: '68',
+  response_time: 251.645,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:10:14.126 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/login',
+  status: 404,
+  content_length: '892',
+  response_time: 1.386,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:12:47.261 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 404,
+  content_length: '892',
+  response_time: 1.262,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:12:59.103 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 07:18:04.616 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 07:18:04.670 AM'
+}
+{
+  message: 'incorrect email or password',
+  level: 'error',
+  timestamp: '2023-06-01 07:18:22.125 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 401,
+  content_length: '263',
+  response_time: 23.739,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:18:22.139 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '314',
+  response_time: 524.257,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 07:18:33.226 AM'
+}

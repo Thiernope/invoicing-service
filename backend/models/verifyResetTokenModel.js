@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const { Schema } = mongoose;
 
-const verifyTokenSchema = new Schama({
+const verifyTokenSchema = new Schema({
     _userId: {
         type: mongoose.Schema.Types.ObjectId,
         required: true,

@@ -7,6 +7,7 @@ import { morganMiddleware, systemLogs } from "./utils/Logger.js";
 import { errorHandler, notFound } from "./middleware/errorMiddleware.js";
 import cookieParser from "cookie-parser";
 import mongoSanize from "express-mongo-sanitize";
+import authRoutes from "../backend/route/authRoutes.js"
 
 const config = dotenv.config();
 
@@ -27,6 +28,8 @@ App.use(morganMiddleware);
 App.get("/api/v1/test", (req, res)=> {
     res.json({message: "Welcome to my invoice app"});
 })
+
+App.use("/api/v1/auth", authRoutes);
 
 App.use(notFound);
 App.use(errorHandler);
