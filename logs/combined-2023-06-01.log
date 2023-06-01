@@ -1190,3 +1190,473 @@
   message: 'incoming-request',
   timestamp: '2023-06-01 01:13:58.428 PM'
 }
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 01:28:26.340 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 01:28:26.381 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/dkjlfdklajsdfklsdafjkl',
+  status: 401,
+  content_length: '12',
+  response_time: 10.393,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:28:27.289 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/dkjlfdklajsdfklsdafjkl',
+  status: 403,
+  content_length: '9',
+  response_time: 4.663,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:28:40.828 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/dkjlfdklajsdfklsdafjkl',
+  status: 403,
+  content_length: '9',
+  response_time: 1.747,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:28:43.136 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '312',
+  response_time: 500.117,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:28:53.340 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/dkjlfdklajsdfklsdafjkl',
+  status: 200,
+  content_length: '1099',
+  response_time: 13.462,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:29:20.438 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '150',
+  response_time: 286.868,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:30:10.437 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '154',
+  response_time: 207.092,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:30:32.897 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 400,
+  content_length: '362',
+  response_time: 6.788,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:30:37.136 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '157',
+  response_time: 198.649,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:30:48.640 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '312',
+  response_time: 315.116,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:30:58.424 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '1346',
+  response_time: 29.433,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:31:36.035 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/64789d880edd030b2fd47f9b',
+  status: 200,
+  content_length: '274',
+  response_time: 10.175,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:32:34.019 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/64789d880edd030b2fd47f9b',
+  status: 200,
+  content_length: '274',
+  response_time: 11.381,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:33:14.091 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '1346',
+  response_time: 18.942,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:33:22.789 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 01:40:39.971 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 01:40:40.004 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/64789d880edd030b2fd47f9b',
+  status: 403,
+  content_length: '9',
+  response_time: 11.872,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:41:47.999 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '312',
+  response_time: 527.45,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:41:56.997 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '1346',
+  response_time: 32.807,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:42:19.113 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/64789d880edd030b2fd47f9b',
+  status: 200,
+  content_length: '67',
+  response_time: 23.275,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:42:29.976 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '1007',
+  response_time: 125.49,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:50:20.336 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/64789d780edd030b2fd47f95',
+  status: 200,
+  content_length: '64',
+  response_time: 13.345,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:50:34.644 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '682',
+  response_time: 16.209,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:50:39.024 PM'
+}
+{
+  method: 'DELETE',
+  url: '/api/v1/user/647898c3d569f4345e1aea5b',
+  status: 200,
+  content_length: '58',
+  response_time: 10.293,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:50:52.041 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '370',
+  response_time: 13.671,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 01:51:07.027 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '149',
+  response_time: 382.797,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:02:15.357 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/5442aadc7aaa616c8bda811bdf49bce702088d6ff17186808d6afa698b9f41c9/6478a4e6fb1b2c18d23fb8c2',
+  status: 302,
+  content_length: '68',
+  response_time: 166.637,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:05:55.026 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '313',
+  response_time: 277.825,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:06:30.029 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 401,
+  content_length: '538',
+  response_time: 4.987,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:07:04.976 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 401,
+  content_length: '538',
+  response_time: 7.89,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:07:12.113 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 210.85,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:07:40.733 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/7809d0bb0bf8ce31e2968d696a6e76452aed48734a60716d893b215997a77f66/6478a62cfb1b2c18d23fb8cf',
+  status: 302,
+  content_length: '68',
+  response_time: 113.664,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:07:58.205 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 401,
+  content_length: '538',
+  response_time: 6.255,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:08:51.234 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '324',
+  response_time: 261.442,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:08:57.688 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '324',
+  response_time: 268.372,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:09:14.165 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/all',
+  status: 200,
+  content_length: '1023',
+  response_time: 13.924,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:09:35.271 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 404,
+  content_length: '952',
+  response_time: 0.927,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:10:32.906 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 02:12:17.145 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 02:12:17.172 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 404,
+  content_length: '952',
+  response_time: 4.7,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:12:18.785 PM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 02:14:36.091 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 02:14:36.165 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 401,
+  content_length: '12',
+  response_time: 5.217,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:14:39.541 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '324',
+  response_time: 530.544,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:14:46.100 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 401,
+  content_length: '12',
+  response_time: 1.177,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:15:13.181 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 401,
+  content_length: '12',
+  response_time: 0.41,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:15:18.425 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 200,
+  content_length: '343',
+  response_time: 29.57,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:15:33.303 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 200,
+  content_length: '343',
+  response_time: 24.609,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:15:53.363 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/6478a62cfb1b2c18d23fb8cf/deactivate',
+  status: 200,
+  content_length: '343',
+  response_time: 13.294,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 02:15:55.243 PM'
+}
