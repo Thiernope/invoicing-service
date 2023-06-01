@@ -8,7 +8,7 @@ import { errorHandler, notFound } from "./middleware/errorMiddleware.js";
 import cookieParser from "cookie-parser";
 import mongoSanize from "express-mongo-sanitize";
 import authRoutes from "../backend/route/authRoutes.js"
-
+import userRoutes from "../backend/route/userRoutes.js";
 const config = dotenv.config();
 
 await connectionToDB();
@@ -30,6 +30,7 @@ App.get("/api/v1/test", (req, res)=> {
 })
 
 App.use("/api/v1/auth", authRoutes);
+App.use("/api/v1/user", userRoutes);
 
 App.use(notFound);
 App.use(errorHandler);

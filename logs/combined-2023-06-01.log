@@ -540,3 +540,283 @@
   message: 'incoming-request',
   timestamp: '2023-06-01 09:32:27.171 AM'
 }
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:55:46.173 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 10:55:46.211 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:58:52.052 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:59:01.423 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:59:08.159 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:59:15.217 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:59:28.991 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:59:37.182 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 10:59:48.157 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:00:03.456 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:00:20.754 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:00:50.916 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:01:48.728 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:02:56.247 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 11:02:56.515 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:04:48.724 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 11:04:48.814 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:09:48.418 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 11:09:48.467 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 401,
+  content_length: '12',
+  response_time: 4.198,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:10:03.337 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 401,
+  content_length: '12',
+  response_time: 0.65,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:10:43.350 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 401,
+  content_length: '12',
+  response_time: 2.033,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:20:51.319 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 27.881,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:20:56.892 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 11:55:57.368 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 11:55:57.467 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 73.29,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:56:03.121 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 5.15,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:56:59.309 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 2.074,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:57:01.441 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 2.77,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:57:23.887 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 1.013,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:57:26.073 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 1.014,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:57:31.502 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 2.439,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 11:58:40.268 AM'
+}
+{
+  message: 'incorrect email or password',
+  level: 'error',
+  timestamp: '2023-06-01 12:01:41.900 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 401,
+  content_length: '263',
+  response_time: 27.263,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:01:41.906 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password',
+  status: 400,
+  content_length: '365',
+  response_time: 5.55,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:02:00.900 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '151',
+  response_time: 345.516,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:02:32.333 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/3f310a79409b605bfe88ad7c5415b8f962c651a6ab33b7ba6b04bfa0398ba64b/647888d7fa2f3306842ced21',
+  status: 302,
+  content_length: '68',
+  response_time: 200.905,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:02:51.612 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '311',
+  response_time: 324.146,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:03:11.024 PM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/user/profile',
+  status: 200,
+  content_length: '297',
+  response_time: 9.619,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:04:16.229 PM'
+}
