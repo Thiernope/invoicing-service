@@ -820,3 +820,93 @@
   message: 'incoming-request',
   timestamp: '2023-06-01 12:04:16.229 PM'
 }
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 12:28:42.843 PM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 12:28:42.898 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 9.633,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:29:35.293 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 403,
+  content_length: '9',
+  response_time: 3.486,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:29:40.840 PM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '311',
+  response_time: 409.809,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:29:47.112 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 200,
+  content_length: '408',
+  response_time: 19.413,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:30:13.493 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 400,
+  content_length: '319',
+  response_time: 9.701,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:30:36.919 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 200,
+  content_length: '410',
+  response_time: 37.974,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:31:05.376 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 400,
+  content_length: '319',
+  response_time: 22.891,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:31:25.687 PM'
+}
+{
+  method: 'PATCH',
+  url: '/api/v1/user/profile',
+  status: 200,
+  content_length: '407',
+  response_time: 13.542,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 12:31:50.120 PM'
+}
