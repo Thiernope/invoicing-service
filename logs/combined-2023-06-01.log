@@ -273,3 +273,270 @@
   message: 'incoming-request',
   timestamp: '2023-06-01 08:31:35.643 AM'
 }
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/325da226eb76d464a132a1f826ce9fbb439be5dbaa0f23848beb0f34a13b6a1c/64785751b45e4c3a87f4f87a',
+  status: 400,
+  content_length: '299',
+  response_time: 23.013,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:32:54.434 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/cc12947a5e7fb786dd0ab816c99cbce98f26037f139778dcdc72c17ed9c9d4af/64785751b45e4c3a87f4f87a',
+  status: 302,
+  content_length: '68',
+  response_time: 157.15,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:33:17.921 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/325da226eb76d464a132a1f826ce9fbb439be5dbaa0f23848beb0f34a13b6a1c/64785751b45e4c3a87f4f87a',
+  status: 400,
+  content_length: '49',
+  response_time: 7.49,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:33:34.723 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/resend_email_token',
+  status: 400,
+  content_length: '315',
+  response_time: 16.642,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:04:55.780 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password_request',
+  status: 404,
+  content_length: '926',
+  response_time: 0.469,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:05:41.154 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 09:07:10.822 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 09:07:10.866 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password_request',
+  status: 400,
+  content_length: '913',
+  response_time: 7.876,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:07:19.111 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password_request',
+  status: 200,
+  content_length: '109',
+  response_time: 547.52,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:07:42.891 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password',
+  status: 400,
+  content_length: '919',
+  response_time: 2.59,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:12:36.567 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password',
+  status: 400,
+  content_length: '891',
+  response_time: 0.767,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:12:54.640 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password',
+  status: 200,
+  content_length: '653',
+  response_time: 31.272,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:13:10.198 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password',
+  status: 200,
+  content_length: '119',
+  response_time: 264.913,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:13:41.487 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '310',
+  response_time: 311.85,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:15:07.146 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/reset_password',
+  status: 400,
+  content_length: '365',
+  response_time: 5.009,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:16:17.758 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 09:29:35.293 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 09:29:35.335 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/logout',
+  status: 200,
+  content_length: '74',
+  response_time: 266.353,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:29:36.704 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/logout',
+  status: 204,
+  response_time: 1.898,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:29:48.828 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/logout',
+  status: 204,
+  response_time: 0.78,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:29:55.797 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '310',
+  response_time: 537.03,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:30:08.250 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '1024',
+  response_time: 173.223,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:30:35.532 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '148',
+  response_time: 255.642,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:30:49.754 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/logout',
+  status: 200,
+  content_length: '74',
+  response_time: 9.092,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:30:58.703 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/logout',
+  status: 204,
+  response_time: 0.689,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:31:01.974 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 400,
+  content_length: '322',
+  response_time: 139.819,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:31:48.187 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/verify/38fc8f729fb4f85029ebf13bc68c4bc28a9089d3cd5653433235d3b3545337ab/647865495154f6666f4258b8',
+  status: 302,
+  content_length: '68',
+  response_time: 210.379,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:32:10.697 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/login',
+  status: 200,
+  content_length: '307',
+  response_time: 267.494,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:32:17.849 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/logout',
+  status: 200,
+  content_length: '70',
+  response_time: 8.76,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 09:32:27.171 AM'
+}
