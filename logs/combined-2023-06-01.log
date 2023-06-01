@@ -173,3 +173,103 @@
   message: 'incoming-request',
   timestamp: '2023-06-01 08:02:25.248 AM'
 }
+{
+  method: 'GET',
+  url: '/api/v1/resend_email_token',
+  status: 404,
+  content_length: '918',
+  response_time: 0.886,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:27:42.708 AM'
+}
+{
+  message: '\x1B[32m\x1B[1mMongoDB Connected: mongodb\x1B[22m\x1B[39m',
+  level: 'info',
+  timestamp: '2023-06-01 08:29:17.300 AM'
+}
+{
+  message: 'Server running in development mode on port 5000',
+  level: 'info',
+  timestamp: '2023-06-01 08:29:17.316 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/resend_email_token',
+  status: 404,
+  content_length: '918',
+  response_time: 11.066,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:29:17.829 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/resend_email_token',
+  status: 404,
+  content_length: '918',
+  response_time: 0.639,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:29:23.879 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/resend_email_token',
+  status: 404,
+  content_length: '918',
+  response_time: 1.684,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:29:50.138 AM'
+}
+{
+  method: 'GET',
+  url: '/api/v1/auth/resend_email_token',
+  status: 404,
+  content_length: '918',
+  response_time: 0.889,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:30:05.514 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/resend_email_token',
+  status: 400,
+  content_length: '317',
+  response_time: 26.432,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:30:31.393 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '1032',
+  response_time: 242.714,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:30:49.329 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/register',
+  status: 200,
+  content_length: '152',
+  response_time: 303.621,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:31:13.849 AM'
+}
+{
+  method: 'POST',
+  url: '/api/v1/auth/resend_email_token',
+  status: 200,
+  content_length: '109',
+  response_time: 108.381,
+  level: 'http',
+  message: 'incoming-request',
+  timestamp: '2023-06-01 08:31:35.643 AM'
+}
